@@ -1,3 +1,9 @@
+/**
+ * Project: Snake Game
+ * Author: EJConstantino-17
+ * Date: 2026-07-18
+ */
+
 package SnakeGame;
 
 import javax.swing.*;
